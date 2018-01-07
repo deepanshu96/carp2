@@ -74,7 +74,7 @@ My final model consisted of the following layers:
 
 | Layer         		|     Description	        					| 
 |:---------------------:|:---------------------------------------------:| 
-| Input         		| 32x32x3 RGB image   							| 
+| Input         		| 32x32x1 Grayscale image   							| 
 | Convolution 5x5     	| 1x1 stride, valid padding, outputs 28x28x6 	|
 | RELU					|												|
 | Max pooling	      	| 2x2 stride,  outputs 14x14x6 				|
@@ -83,8 +83,7 @@ My final model consisted of the following layers:
 | Max pooling	      	| 2x2 stride,  outputs 5x5x16 				|
 | Convolution 5x5     	| 1x1 stride, valid padding, outputs 1x1x400 	|
 | RELU					|												|
-| Convolution 3x3	    | etc.      									|
-| Fully connected		| etc.        									|
+| Fully connected		| 5x5x16 -> 400,  1x1x400->400     		|
 | Softmax				| etc.        									|
 |						|												|
 |						|												|

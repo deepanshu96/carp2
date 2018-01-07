@@ -83,7 +83,12 @@ My final model consisted of the following layers:
 | Max pooling	      	| 2x2 stride,  outputs 5x5x16 				|
 | Convolution 5x5     	| 1x1 stride, valid padding, outputs 1x1x400 	|
 | RELU					|												|
-| Fully connected		| 5x5x16 -> 400,  1x1x400->400     		|
+| Flatten Layers		| 5x5x16 -> 400,  1x1x400->400     		|
+| Concatenate Flatten Layers | Input = 400,400 Output = 800             |
+| Dropout |   |
+| Fully Connected Layers		| Input = 800. Output = 120     		|
+| Fully Connected Layers		| Input = 120. Output = 84     		|
+| Fully Connected Layers		| Input = 84. Output = 43     		|
 | Softmax				| etc.        									|
 |						|												|
 |						|												|

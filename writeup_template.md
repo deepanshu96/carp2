@@ -56,7 +56,7 @@ I also represented each class with an example image with it.
 
 ![alt text](https://github.com/deepanshu96/carp2/blob/master/Imag/Screen%20Shot%202018-01-06%20at%208.27.02%20PM.png)
 
-*In the next step I normalized the given training,test and validation data set. Nomalized data has very little variance, that is it becomes easier to process data and it removes any deviation of result if any feature has a large magnitude.
+*In the next step I normalized the given training,test and validation data set. Nomalized data has very little variance, that is it becomes easier to process data and it removes any deviation of result if any feature has a large magnitude. Also in Sermanet and LeCun model the data was normalized in order to get accurate results.
 
 ![alt text](https://github.com/deepanshu96/carp2/blob/master/dib.png)
 

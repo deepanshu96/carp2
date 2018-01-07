@@ -122,7 +122,7 @@ The model gave an accuracy of 0.50 when run on the above 6 images.
 
 The top 5 softmax probabilities along with the top 5 class for each image as predicted by the model are given below :-
 
-![alt text](https://github.com/deepanshu96/carp2/blob/master/dola2.png)
+![alt text](https://github.com/deepanshu96/carp2/blob/master/doba3.png)
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?

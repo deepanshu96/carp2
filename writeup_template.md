@@ -38,7 +38,12 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-![alt text][image1]
+![alt text](https://github.com/deepanshu96/carp2/blob/master/Imag/Screen%20Shot%202018-01-06%20at%208.26.07%20PM.png)
+
+![alt text](https://github.com/deepanshu96/carp2/blob/master/Imag/Screen%20Shot%202018-01-06%20at%208.26.14%20PM.png)
+
+![alt text](https://github.com/deepanshu96/carp2/blob/master/Imag/Screen%20Shot%202018-01-06%20at%208.26.23%20PM.png)
+
 
 ### Design and Test a Model Architecture
 

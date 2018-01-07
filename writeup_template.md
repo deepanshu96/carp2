@@ -24,6 +24,7 @@ The goals / steps of this project are the following:
   
 Here is a link to my [project code](https://github.com/deepanshu96/carp2/blob/master/tsc4.ipynb)
 
+(Link to the html file for the above code is [here](https://github.com/deepanshu96/carp2/blob/master/tsc4.html) )
 ### Data Set Summary & Exploration
 
 I used the numpy library to calculate summary statistics of the traffic

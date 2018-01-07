@@ -21,9 +21,8 @@ The goals / steps of this project are the following:
 [image8]: https://github.com/deepanshu96/carp2/blob/master/ger/ger1.jpg
 
 ## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
-
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+  
+Here is a link to my [project code](https://github.com/deepanshu96/carp2/blob/master/tsc4.ipynb)
 
 ### Data Set Summary & Exploration
 

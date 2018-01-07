@@ -54,7 +54,13 @@ I also represented each class with an example image with it.
 
 *In the first step I converted the given training,test and validation data set into grayscale.
 
-![alt text](
+![alt text](https://github.com/deepanshu96/carp2/blob/master/Imag/Screen%20Shot%202018-01-06%20at%208.27.02%20PM.png)
+
+*In the next step I normalized the given training,test and validation data set.
+
+![alt text](https://github.com/deepanshu96/carp2/blob/master/dib.png)
+
+*I also 
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 

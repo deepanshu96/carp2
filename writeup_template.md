@@ -52,11 +52,11 @@ I also represented each class with an example image with it.
 
 #### 1. Describe how you preprocessed the image data. What techniques were chosen and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc. (OPTIONAL: As described in the "Stand Out Suggestions" part of the rubric, if you generated additional data for training, describe why you decided to generate additional data, how you generated the data, and provide example images of the additional data. Then describe the characteristics of the augmented training set like number of images in the set, number of images for each class, etc.)
 
-*In the first step I converted the given training,test and validation data set into grayscale.
+*In the first step I converted the given training,test and validation data set into grayscale. The grayscale conversion was done to speed up the training process because grayscale processing is 3 times faster than rgb processing as it has only one color as opposed to the rgb images.
 
 ![alt text](https://github.com/deepanshu96/carp2/blob/master/Imag/Screen%20Shot%202018-01-06%20at%208.27.02%20PM.png)
 
-*In the next step I normalized the given training,test and validation data set.
+*In the next step I normalized the given training,test and validation data set. Nomalized data has very little variance, that is it becomes easier to process data and it removes any deviation of result if any feature has a large magnitude.
 
 ![alt text](https://github.com/deepanshu96/carp2/blob/master/dib.png)
 
